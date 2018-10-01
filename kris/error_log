@@ -1,0 +1,767 @@
+[14-Aug-2018 17:38:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[14-Aug-2018 17:38:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[14-Aug-2018 17:38:26 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[14-Aug-2018 17:38:26 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[14-Aug-2018 17:38:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[14-Aug-2018 17:38:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[14-Aug-2018 17:47:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[14-Aug-2018 17:47:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[14-Aug-2018 17:47:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[14-Aug-2018 17:47:41 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[14-Aug-2018 17:47:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[15-Aug-2018 03:32:17 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/feedbackProcess.php on line 4
+[15-Aug-2018 03:32:17 Etc/GMT] PHP Notice:  Undefined index: lname in /home/krishddw/public_html/feedbackProcess.php on line 5
+[15-Aug-2018 03:32:17 Etc/GMT] PHP Notice:  Undefined index: email in /home/krishddw/public_html/feedbackProcess.php on line 6
+[15-Aug-2018 03:32:17 Etc/GMT] PHP Notice:  Undefined index: subject in /home/krishddw/public_html/feedbackProcess.php on line 7
+[15-Aug-2018 03:32:17 Etc/GMT] PHP Notice:  Undefined index: message in /home/krishddw/public_html/feedbackProcess.php on line 8
+[15-Aug-2018 03:32:17 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[15-Aug-2018 03:32:18 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[15-Aug-2018 03:32:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[15-Aug-2018 03:32:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[15-Aug-2018 03:46:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[15-Aug-2018 04:36:39 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[15-Aug-2018 10:30:04 Etc/GMT] PHP Notice:  Undefined index: cName in /home/krishddw/public_html/signupProcess.php on line 84
+[15-Aug-2018 10:30:04 Etc/GMT] PHP Notice:  Undefined variable: firstName in /home/krishddw/public_html/signupProcess.php on line 90
+[15-Aug-2018 10:30:04 Etc/GMT] PHP Notice:  Undefined variable: lastName in /home/krishddw/public_html/signupProcess.php on line 90
+[15-Aug-2018 10:37:43 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[16-Aug-2018 03:34:30 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/feedbackProcess.php on line 4
+[16-Aug-2018 03:34:30 Etc/GMT] PHP Notice:  Undefined index: lname in /home/krishddw/public_html/feedbackProcess.php on line 5
+[16-Aug-2018 03:34:30 Etc/GMT] PHP Notice:  Undefined index: email in /home/krishddw/public_html/feedbackProcess.php on line 6
+[16-Aug-2018 03:34:30 Etc/GMT] PHP Notice:  Undefined index: subject in /home/krishddw/public_html/feedbackProcess.php on line 7
+[16-Aug-2018 03:34:30 Etc/GMT] PHP Notice:  Undefined index: message in /home/krishddw/public_html/feedbackProcess.php on line 8
+[16-Aug-2018 03:34:31 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[16-Aug-2018 03:34:31 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[16-Aug-2018 03:34:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[16-Aug-2018 03:34:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[17-Aug-2018 03:39:07 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[17-Aug-2018 03:39:08 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[18-Aug-2018 03:34:57 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[18-Aug-2018 03:34:57 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[18-Aug-2018 19:07:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[18-Aug-2018 19:07:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[19-Aug-2018 03:38:24 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[19-Aug-2018 03:38:25 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[19-Aug-2018 03:38:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[19-Aug-2018 03:38:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[19-Aug-2018 08:07:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[19-Aug-2018 08:07:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[19-Aug-2018 08:07:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[19-Aug-2018 22:40:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[20-Aug-2018 01:39:10 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[20-Aug-2018 03:37:11 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[20-Aug-2018 03:37:11 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[20-Aug-2018 03:37:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[20-Aug-2018 03:37:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[21-Aug-2018 03:39:48 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[21-Aug-2018 03:39:49 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[21-Aug-2018 03:39:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[21-Aug-2018 03:39:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[22-Aug-2018 00:26:39 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[22-Aug-2018 03:35:03 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[22-Aug-2018 03:35:04 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[22-Aug-2018 03:35:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[22-Aug-2018 03:35:05 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[23-Aug-2018 03:37:03 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[23-Aug-2018 03:37:03 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[23-Aug-2018 03:37:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[23-Aug-2018 03:37:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[24-Aug-2018 03:33:24 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[24-Aug-2018 03:33:24 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[24-Aug-2018 03:33:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[24-Aug-2018 03:33:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[24-Aug-2018 14:34:45 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[24-Aug-2018 14:34:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[25-Aug-2018 03:33:27 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[25-Aug-2018 03:33:27 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[25-Aug-2018 03:33:27 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[25-Aug-2018 03:33:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[26-Aug-2018 03:32:24 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[26-Aug-2018 03:32:25 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[26-Aug-2018 03:32:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[26-Aug-2018 03:32:26 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[26-Aug-2018 20:54:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[27-Aug-2018 03:36:06 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[27-Aug-2018 03:36:06 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[27-Aug-2018 03:36:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[27-Aug-2018 03:36:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[28-Aug-2018 03:34:53 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[28-Aug-2018 03:34:53 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[28-Aug-2018 03:34:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[28-Aug-2018 03:34:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[29-Aug-2018 04:15:19 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[29-Aug-2018 04:15:20 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[29-Aug-2018 04:15:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[29-Aug-2018 04:15:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[29-Aug-2018 23:13:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[30-Aug-2018 03:30:55 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[30-Aug-2018 03:30:56 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[30-Aug-2018 03:30:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[30-Aug-2018 03:30:57 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[31-Aug-2018 03:38:05 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[31-Aug-2018 03:38:05 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[31-Aug-2018 03:38:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[31-Aug-2018 03:38:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[31-Aug-2018 06:16:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[01-Sep-2018 03:38:13 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[01-Sep-2018 03:38:14 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[01-Sep-2018 03:38:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[01-Sep-2018 03:38:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[02-Sep-2018 03:38:53 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[02-Sep-2018 03:38:54 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[02-Sep-2018 03:38:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[02-Sep-2018 03:38:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[03-Sep-2018 03:36:39 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[03-Sep-2018 03:36:40 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[03-Sep-2018 03:36:40 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[03-Sep-2018 03:36:41 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[04-Sep-2018 03:36:08 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[04-Sep-2018 03:36:08 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[04-Sep-2018 03:36:09 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[04-Sep-2018 03:36:09 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[05-Sep-2018 03:35:27 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[05-Sep-2018 03:35:28 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[05-Sep-2018 03:35:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[05-Sep-2018 03:35:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[06-Sep-2018 00:17:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[06-Sep-2018 03:34:04 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[06-Sep-2018 03:34:04 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[06-Sep-2018 03:34:05 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[06-Sep-2018 03:34:05 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[07-Sep-2018 03:30:32 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[07-Sep-2018 03:30:33 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[07-Sep-2018 03:30:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[07-Sep-2018 03:30:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[08-Sep-2018 03:32:47 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[08-Sep-2018 03:32:47 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[08-Sep-2018 03:32:48 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[08-Sep-2018 03:32:48 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[09-Sep-2018 03:34:38 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[09-Sep-2018 03:34:39 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[09-Sep-2018 03:34:39 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[09-Sep-2018 03:34:39 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[10-Sep-2018 03:31:03 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[10-Sep-2018 03:31:04 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[10-Sep-2018 03:31:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[10-Sep-2018 03:31:05 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[10-Sep-2018 06:17:14 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[11-Sep-2018 03:37:57 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/feedbackProcess.php on line 4
+[11-Sep-2018 03:37:57 Etc/GMT] PHP Notice:  Undefined index: lname in /home/krishddw/public_html/feedbackProcess.php on line 5
+[11-Sep-2018 03:37:57 Etc/GMT] PHP Notice:  Undefined index: email in /home/krishddw/public_html/feedbackProcess.php on line 6
+[11-Sep-2018 03:37:57 Etc/GMT] PHP Notice:  Undefined index: subject in /home/krishddw/public_html/feedbackProcess.php on line 7
+[11-Sep-2018 03:37:57 Etc/GMT] PHP Notice:  Undefined index: message in /home/krishddw/public_html/feedbackProcess.php on line 8
+[11-Sep-2018 03:37:58 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[11-Sep-2018 03:37:58 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[11-Sep-2018 03:37:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[11-Sep-2018 03:37:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[11-Sep-2018 16:57:29 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[12-Sep-2018 03:34:46 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/feedbackProcess.php on line 4
+[12-Sep-2018 03:34:46 Etc/GMT] PHP Notice:  Undefined index: lname in /home/krishddw/public_html/feedbackProcess.php on line 5
+[12-Sep-2018 03:34:46 Etc/GMT] PHP Notice:  Undefined index: email in /home/krishddw/public_html/feedbackProcess.php on line 6
+[12-Sep-2018 03:34:46 Etc/GMT] PHP Notice:  Undefined index: subject in /home/krishddw/public_html/feedbackProcess.php on line 7
+[12-Sep-2018 03:34:46 Etc/GMT] PHP Notice:  Undefined index: message in /home/krishddw/public_html/feedbackProcess.php on line 8
+[12-Sep-2018 03:34:46 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[12-Sep-2018 03:34:47 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[12-Sep-2018 03:34:47 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[12-Sep-2018 03:34:48 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[12-Sep-2018 08:25:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[13-Sep-2018 03:31:45 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/feedbackProcess.php on line 4
+[13-Sep-2018 03:31:45 Etc/GMT] PHP Notice:  Undefined index: lname in /home/krishddw/public_html/feedbackProcess.php on line 5
+[13-Sep-2018 03:31:45 Etc/GMT] PHP Notice:  Undefined index: email in /home/krishddw/public_html/feedbackProcess.php on line 6
+[13-Sep-2018 03:31:45 Etc/GMT] PHP Notice:  Undefined index: subject in /home/krishddw/public_html/feedbackProcess.php on line 7
+[13-Sep-2018 03:31:45 Etc/GMT] PHP Notice:  Undefined index: message in /home/krishddw/public_html/feedbackProcess.php on line 8
+[13-Sep-2018 03:31:45 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[13-Sep-2018 03:31:46 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[13-Sep-2018 03:31:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[13-Sep-2018 03:31:47 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[14-Sep-2018 03:36:29 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/feedbackProcess.php on line 4
+[14-Sep-2018 03:36:29 Etc/GMT] PHP Notice:  Undefined index: lname in /home/krishddw/public_html/feedbackProcess.php on line 5
+[14-Sep-2018 03:36:29 Etc/GMT] PHP Notice:  Undefined index: email in /home/krishddw/public_html/feedbackProcess.php on line 6
+[14-Sep-2018 03:36:29 Etc/GMT] PHP Notice:  Undefined index: subject in /home/krishddw/public_html/feedbackProcess.php on line 7
+[14-Sep-2018 03:36:29 Etc/GMT] PHP Notice:  Undefined index: message in /home/krishddw/public_html/feedbackProcess.php on line 8
+[14-Sep-2018 03:36:30 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[14-Sep-2018 03:36:30 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[14-Sep-2018 03:36:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[14-Sep-2018 03:36:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[15-Sep-2018 03:30:43 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/feedbackProcess.php on line 4
+[15-Sep-2018 03:30:43 Etc/GMT] PHP Notice:  Undefined index: lname in /home/krishddw/public_html/feedbackProcess.php on line 5
+[15-Sep-2018 03:30:43 Etc/GMT] PHP Notice:  Undefined index: email in /home/krishddw/public_html/feedbackProcess.php on line 6
+[15-Sep-2018 03:30:43 Etc/GMT] PHP Notice:  Undefined index: subject in /home/krishddw/public_html/feedbackProcess.php on line 7
+[15-Sep-2018 03:30:43 Etc/GMT] PHP Notice:  Undefined index: message in /home/krishddw/public_html/feedbackProcess.php on line 8
+[15-Sep-2018 03:30:43 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[15-Sep-2018 03:30:44 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[15-Sep-2018 03:30:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[15-Sep-2018 03:30:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[16-Sep-2018 03:32:25 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/feedbackProcess.php on line 4
+[16-Sep-2018 03:32:25 Etc/GMT] PHP Notice:  Undefined index: lname in /home/krishddw/public_html/feedbackProcess.php on line 5
+[16-Sep-2018 03:32:25 Etc/GMT] PHP Notice:  Undefined index: email in /home/krishddw/public_html/feedbackProcess.php on line 6
+[16-Sep-2018 03:32:25 Etc/GMT] PHP Notice:  Undefined index: subject in /home/krishddw/public_html/feedbackProcess.php on line 7
+[16-Sep-2018 03:32:25 Etc/GMT] PHP Notice:  Undefined index: message in /home/krishddw/public_html/feedbackProcess.php on line 8
+[16-Sep-2018 03:32:26 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[16-Sep-2018 03:32:26 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[16-Sep-2018 03:32:27 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[16-Sep-2018 03:32:27 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[17-Sep-2018 03:32:24 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/feedbackProcess.php on line 4
+[17-Sep-2018 03:32:24 Etc/GMT] PHP Notice:  Undefined index: lname in /home/krishddw/public_html/feedbackProcess.php on line 5
+[17-Sep-2018 03:32:24 Etc/GMT] PHP Notice:  Undefined index: email in /home/krishddw/public_html/feedbackProcess.php on line 6
+[17-Sep-2018 03:32:24 Etc/GMT] PHP Notice:  Undefined index: subject in /home/krishddw/public_html/feedbackProcess.php on line 7
+[17-Sep-2018 03:32:24 Etc/GMT] PHP Notice:  Undefined index: message in /home/krishddw/public_html/feedbackProcess.php on line 8
+[17-Sep-2018 03:32:24 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[17-Sep-2018 03:32:24 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[17-Sep-2018 03:32:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[17-Sep-2018 03:32:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[18-Sep-2018 03:33:31 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/feedbackProcess.php on line 4
+[18-Sep-2018 03:33:31 Etc/GMT] PHP Notice:  Undefined index: lname in /home/krishddw/public_html/feedbackProcess.php on line 5
+[18-Sep-2018 03:33:31 Etc/GMT] PHP Notice:  Undefined index: email in /home/krishddw/public_html/feedbackProcess.php on line 6
+[18-Sep-2018 03:33:31 Etc/GMT] PHP Notice:  Undefined index: subject in /home/krishddw/public_html/feedbackProcess.php on line 7
+[18-Sep-2018 03:33:31 Etc/GMT] PHP Notice:  Undefined index: message in /home/krishddw/public_html/feedbackProcess.php on line 8
+[18-Sep-2018 03:33:32 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[18-Sep-2018 03:33:32 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[18-Sep-2018 03:33:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[18-Sep-2018 03:33:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[19-Sep-2018 03:33:44 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/feedbackProcess.php on line 4
+[19-Sep-2018 03:33:44 Etc/GMT] PHP Notice:  Undefined index: lname in /home/krishddw/public_html/feedbackProcess.php on line 5
+[19-Sep-2018 03:33:44 Etc/GMT] PHP Notice:  Undefined index: email in /home/krishddw/public_html/feedbackProcess.php on line 6
+[19-Sep-2018 03:33:44 Etc/GMT] PHP Notice:  Undefined index: subject in /home/krishddw/public_html/feedbackProcess.php on line 7
+[19-Sep-2018 03:33:44 Etc/GMT] PHP Notice:  Undefined index: message in /home/krishddw/public_html/feedbackProcess.php on line 8
+[19-Sep-2018 03:33:45 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[19-Sep-2018 03:33:45 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[19-Sep-2018 03:33:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[19-Sep-2018 03:33:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[20-Sep-2018 03:34:44 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/feedbackProcess.php on line 4
+[20-Sep-2018 03:34:44 Etc/GMT] PHP Notice:  Undefined index: lname in /home/krishddw/public_html/feedbackProcess.php on line 5
+[20-Sep-2018 03:34:44 Etc/GMT] PHP Notice:  Undefined index: email in /home/krishddw/public_html/feedbackProcess.php on line 6
+[20-Sep-2018 03:34:44 Etc/GMT] PHP Notice:  Undefined index: subject in /home/krishddw/public_html/feedbackProcess.php on line 7
+[20-Sep-2018 03:34:44 Etc/GMT] PHP Notice:  Undefined index: message in /home/krishddw/public_html/feedbackProcess.php on line 8
+[20-Sep-2018 03:34:45 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[20-Sep-2018 03:34:45 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[20-Sep-2018 03:34:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[20-Sep-2018 03:34:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/krishddw/public_html/loginScript.php on line 12
+[20-Sep-2018 17:29:47 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 28
+[20-Sep-2018 17:50:08 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 96
+[20-Sep-2018 17:56:49 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 28
+[20-Sep-2018 18:06:45 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 96
+[20-Sep-2018 18:36:14 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 28
+[21-Sep-2018 03:32:07 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[21-Sep-2018 03:32:08 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[21-Sep-2018 05:21:06 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 97
+[21-Sep-2018 05:28:51 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 97
+[21-Sep-2018 06:37:15 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 97
+[21-Sep-2018 06:37:35 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 46
+[21-Sep-2018 07:24:18 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 29
+[21-Sep-2018 14:19:56 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 97
+[21-Sep-2018 14:36:03 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 46
+[22-Sep-2018 03:36:02 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[22-Sep-2018 03:36:03 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[22-Sep-2018 04:04:50 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 97
+[22-Sep-2018 07:21:52 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 97
+[22-Sep-2018 08:35:34 Etc/GMT] PHP Notice:  Undefined index: number in /home/krishddw/public_html/login.php on line 16
+[22-Sep-2018 08:35:34 Etc/GMT] PHP Notice:  Undefined index: password in /home/krishddw/public_html/login.php on line 17
+[22-Sep-2018 08:35:34 Etc/GMT] PHP Notice:  Undefined variable: category in /home/krishddw/public_html/login.php on line 22
+[22-Sep-2018 08:35:34 Etc/GMT] PHP Notice:  Undefined variable: category in /home/krishddw/public_html/login.php on line 39
+[22-Sep-2018 08:35:34 Etc/GMT] PHP Notice:  Undefined variable: category in /home/krishddw/public_html/login.php on line 56
+[22-Sep-2018 08:35:34 Etc/GMT] PHP Notice:  Undefined variable: category in /home/krishddw/public_html/login.php on line 73
+[22-Sep-2018 08:35:34 Etc/GMT] PHP Notice:  Undefined variable: category in /home/krishddw/public_html/login.php on line 90
+[23-Sep-2018 03:36:39 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[23-Sep-2018 03:36:39 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[23-Sep-2018 07:20:59 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 29
+[23-Sep-2018 07:21:42 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 29
+[23-Sep-2018 07:35:10 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 51
+[23-Sep-2018 07:35:10 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/index.php on line 186
+[23-Sep-2018 07:35:59 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 51
+[23-Sep-2018 07:36:00 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/index.php on line 186
+[23-Sep-2018 07:37:28 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 51
+[23-Sep-2018 07:37:28 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/index.php on line 186
+[23-Sep-2018 07:37:37 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/contact.php on line 129
+[23-Sep-2018 07:37:37 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/index.php on line 186
+[23-Sep-2018 07:39:56 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 51
+[23-Sep-2018 07:39:56 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/index.php on line 186
+[23-Sep-2018 07:40:05 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/index.php on line 186
+[23-Sep-2018 07:40:35 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 29
+[23-Sep-2018 07:40:41 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 29
+[23-Sep-2018 07:48:56 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 51
+[23-Sep-2018 07:48:56 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/index.php on line 186
+[23-Sep-2018 08:25:29 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/index.php on line 186
+[23-Sep-2018 08:25:34 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/index.php on line 186
+[23-Sep-2018 08:27:09 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:27:09 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:27:09 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 08:30:19 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:30:19 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:30:19 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 08:31:03 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:31:03 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:31:03 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 08:31:38 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:31:38 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:31:38 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 08:32:18 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:32:18 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:32:18 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 08:32:38 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:32:38 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:32:38 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 08:35:12 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:35:12 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:35:12 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 08:35:25 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:35:25 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:35:25 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 08:37:15 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:37:15 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:37:15 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 08:37:34 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:37:34 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:37:34 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 08:41:13 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:41:13 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:41:13 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 08:41:20 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:41:20 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:41:20 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 08:41:43 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:41:43 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:41:43 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 08:41:50 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:41:50 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:41:50 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 08:42:08 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:42:08 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:42:08 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 08:42:26 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:42:26 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:42:26 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 08:50:11 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:50:11 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:50:11 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 08:50:23 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:50:23 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:50:23 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 08:52:37 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:52:37 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:52:37 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 08:53:07 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:53:07 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:53:07 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 08:53:13 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:53:13 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:53:13 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 08:56:06 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 167
+[23-Sep-2018 08:56:06 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 172
+[23-Sep-2018 08:56:06 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 175
+[23-Sep-2018 08:56:10 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 167
+[23-Sep-2018 08:56:10 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 172
+[23-Sep-2018 08:56:10 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 175
+[23-Sep-2018 08:57:39 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 167
+[23-Sep-2018 08:57:39 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 172
+[23-Sep-2018 08:57:39 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 175
+[23-Sep-2018 08:58:05 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:58:05 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:58:05 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 08:58:25 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 08:58:25 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 08:58:25 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 09:00:48 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 09:00:48 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 09:00:48 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 09:01:02 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 09:01:02 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 09:01:02 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 09:01:54 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 167
+[23-Sep-2018 09:01:54 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 172
+[23-Sep-2018 09:01:54 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 175
+[23-Sep-2018 09:02:44 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 167
+[23-Sep-2018 09:02:44 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 172
+[23-Sep-2018 09:02:44 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 175
+[23-Sep-2018 09:02:45 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 167
+[23-Sep-2018 09:02:45 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 172
+[23-Sep-2018 09:02:45 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 175
+[23-Sep-2018 09:12:30 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 167
+[23-Sep-2018 09:12:30 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 172
+[23-Sep-2018 09:12:30 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 175
+[23-Sep-2018 09:12:53 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 167
+[23-Sep-2018 09:12:53 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 172
+[23-Sep-2018 09:12:53 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 175
+[23-Sep-2018 09:13:49 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 167
+[23-Sep-2018 09:13:49 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 172
+[23-Sep-2018 09:13:49 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 175
+[23-Sep-2018 09:14:45 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 167
+[23-Sep-2018 09:14:45 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 172
+[23-Sep-2018 09:14:45 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 175
+[23-Sep-2018 09:22:32 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 167
+[23-Sep-2018 09:22:32 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 172
+[23-Sep-2018 09:22:32 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 175
+[23-Sep-2018 09:23:00 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 167
+[23-Sep-2018 09:23:00 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 172
+[23-Sep-2018 09:23:00 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 175
+[23-Sep-2018 09:23:26 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 167
+[23-Sep-2018 09:23:26 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 172
+[23-Sep-2018 09:23:26 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 175
+[23-Sep-2018 09:23:49 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 167
+[23-Sep-2018 09:23:49 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 172
+[23-Sep-2018 09:23:49 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 175
+[23-Sep-2018 09:24:23 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 167
+[23-Sep-2018 09:24:23 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 172
+[23-Sep-2018 09:24:23 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 175
+[23-Sep-2018 09:24:56 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 167
+[23-Sep-2018 09:24:56 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 172
+[23-Sep-2018 09:24:56 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 175
+[23-Sep-2018 09:25:00 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 167
+[23-Sep-2018 09:25:00 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 172
+[23-Sep-2018 09:25:00 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 175
+[23-Sep-2018 09:25:16 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 167
+[23-Sep-2018 09:25:16 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 172
+[23-Sep-2018 09:25:16 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 175
+[23-Sep-2018 09:25:58 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 167
+[23-Sep-2018 09:25:58 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 172
+[23-Sep-2018 09:25:58 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 175
+[23-Sep-2018 09:26:18 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 167
+[23-Sep-2018 09:26:18 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 172
+[23-Sep-2018 09:26:18 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 175
+[23-Sep-2018 09:26:48 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 167
+[23-Sep-2018 09:26:48 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 172
+[23-Sep-2018 09:26:48 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 175
+[23-Sep-2018 09:28:01 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 167
+[23-Sep-2018 09:28:01 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 172
+[23-Sep-2018 09:28:01 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 175
+[23-Sep-2018 09:28:15 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 09:28:15 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 09:28:15 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 09:28:49 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 09:28:49 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 09:28:49 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 09:29:15 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 09:29:15 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 09:29:15 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 09:29:31 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 09:29:31 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 09:29:31 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 09:29:49 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 09:29:49 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 09:29:49 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 09:30:02 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 09:30:02 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 09:30:02 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 09:30:25 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 09:30:25 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 09:30:25 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 09:30:40 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 09:30:40 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 09:30:40 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 09:30:51 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 09:30:51 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 09:30:51 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 09:31:38 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 09:31:38 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 09:31:38 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 09:31:51 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 09:31:51 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 09:31:51 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 09:33:13 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 09:33:13 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 09:33:13 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 09:33:39 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 09:33:39 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 09:33:39 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 10:20:25 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 51
+[23-Sep-2018 11:13:49 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 51
+[23-Sep-2018 11:15:14 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 51
+[23-Sep-2018 11:18:20 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 51
+[23-Sep-2018 11:22:16 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 11:22:16 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 11:22:16 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 11:24:46 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 11:24:46 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 11:24:46 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 11:28:55 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 51
+[23-Sep-2018 11:37:07 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 51
+[23-Sep-2018 11:39:01 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 114
+[23-Sep-2018 11:39:23 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 114
+[23-Sep-2018 11:39:41 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 11:39:41 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 11:39:41 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 11:39:42 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 51
+[23-Sep-2018 11:41:06 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 29
+[23-Sep-2018 11:43:50 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 11:43:50 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 11:43:50 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 11:45:24 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 11:45:24 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 11:45:24 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 13:42:28 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 29
+[23-Sep-2018 15:13:07 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 161
+[23-Sep-2018 15:13:07 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 15:13:07 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 169
+[23-Sep-2018 15:22:03 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/krishddw/public_html/enquiry.php on line 166
+[23-Sep-2018 15:22:03 Etc/GMT] PHP Notice:  Undefined index: address in /home/krishddw/public_html/enquiry.php on line 171
+[23-Sep-2018 15:22:03 Etc/GMT] PHP Notice:  Undefined index: pincode in /home/krishddw/public_html/enquiry.php on line 174
+[23-Sep-2018 15:24:59 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[23-Sep-2018 15:37:25 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 160
+[23-Sep-2018 15:37:25 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 179
+[23-Sep-2018 15:37:25 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 198
+[23-Sep-2018 15:37:25 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 210
+[23-Sep-2018 15:37:25 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 225
+[23-Sep-2018 15:38:06 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 160
+[23-Sep-2018 15:38:06 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 179
+[23-Sep-2018 15:38:06 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 198
+[23-Sep-2018 15:38:06 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 210
+[23-Sep-2018 15:38:06 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 225
+[23-Sep-2018 15:38:15 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 160
+[23-Sep-2018 15:38:15 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 179
+[23-Sep-2018 15:38:15 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 198
+[23-Sep-2018 15:38:15 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 210
+[23-Sep-2018 15:38:15 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 225
+[23-Sep-2018 15:51:22 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 154
+[23-Sep-2018 15:51:22 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 173
+[23-Sep-2018 15:51:22 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 192
+[23-Sep-2018 15:51:22 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 203
+[23-Sep-2018 15:51:22 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 218
+[23-Sep-2018 15:51:36 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[23-Sep-2018 15:53:29 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 154
+[23-Sep-2018 15:53:29 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 173
+[23-Sep-2018 15:53:29 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 192
+[23-Sep-2018 15:53:29 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 203
+[23-Sep-2018 15:53:29 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 218
+[23-Sep-2018 15:53:37 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[23-Sep-2018 16:04:02 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 154
+[23-Sep-2018 16:04:02 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 173
+[23-Sep-2018 16:04:02 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 192
+[23-Sep-2018 16:04:02 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 203
+[23-Sep-2018 16:04:02 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 218
+[23-Sep-2018 16:04:21 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[24-Sep-2018 03:36:14 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/feedbackProcess.php on line 4
+[24-Sep-2018 03:36:14 Etc/GMT] PHP Notice:  Undefined index: lname in /home/krishddw/public_html/feedbackProcess.php on line 5
+[24-Sep-2018 03:36:14 Etc/GMT] PHP Notice:  Undefined index: email in /home/krishddw/public_html/feedbackProcess.php on line 6
+[24-Sep-2018 03:36:14 Etc/GMT] PHP Notice:  Undefined index: subject in /home/krishddw/public_html/feedbackProcess.php on line 7
+[24-Sep-2018 03:36:14 Etc/GMT] PHP Notice:  Undefined index: message in /home/krishddw/public_html/feedbackProcess.php on line 8
+[24-Sep-2018 03:36:14 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[24-Sep-2018 03:36:15 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[24-Sep-2018 04:32:59 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 154
+[24-Sep-2018 04:32:59 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 173
+[24-Sep-2018 04:32:59 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 192
+[24-Sep-2018 04:32:59 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 203
+[24-Sep-2018 04:32:59 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 218
+[24-Sep-2018 15:33:38 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 154
+[24-Sep-2018 15:33:38 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 173
+[24-Sep-2018 15:33:38 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 192
+[24-Sep-2018 15:33:38 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 203
+[24-Sep-2018 15:33:38 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 218
+[25-Sep-2018 03:32:13 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/feedbackProcess.php on line 4
+[25-Sep-2018 03:32:13 Etc/GMT] PHP Notice:  Undefined index: lname in /home/krishddw/public_html/feedbackProcess.php on line 5
+[25-Sep-2018 03:32:13 Etc/GMT] PHP Notice:  Undefined index: email in /home/krishddw/public_html/feedbackProcess.php on line 6
+[25-Sep-2018 03:32:13 Etc/GMT] PHP Notice:  Undefined index: subject in /home/krishddw/public_html/feedbackProcess.php on line 7
+[25-Sep-2018 03:32:13 Etc/GMT] PHP Notice:  Undefined index: message in /home/krishddw/public_html/feedbackProcess.php on line 8
+[25-Sep-2018 03:32:14 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[25-Sep-2018 03:32:14 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[25-Sep-2018 03:57:43 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[25-Sep-2018 11:18:14 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 154
+[25-Sep-2018 11:18:14 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 173
+[25-Sep-2018 11:18:14 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 192
+[25-Sep-2018 11:18:14 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 203
+[25-Sep-2018 11:18:14 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 218
+[25-Sep-2018 11:18:14 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 154
+[25-Sep-2018 11:18:14 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 173
+[25-Sep-2018 11:18:14 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 192
+[25-Sep-2018 11:18:14 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 203
+[25-Sep-2018 11:18:14 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 218
+[25-Sep-2018 11:18:38 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[25-Sep-2018 11:36:17 Etc/GMT] PHP Notice:  Undefined index: farming_type in /home/krishddw/public_html/buyerEnqdb.php on line 3
+[25-Sep-2018 11:36:17 Etc/GMT] PHP Notice:  Undefined index: companyName in /home/krishddw/public_html/buyerEnqdb.php on line 4
+[25-Sep-2018 11:36:17 Etc/GMT] PHP Notice:  Undefined index: email in /home/krishddw/public_html/buyerEnqdb.php on line 5
+[25-Sep-2018 11:36:17 Etc/GMT] PHP Notice:  Undefined index: bankName in /home/krishddw/public_html/buyerEnqdb.php on line 6
+[25-Sep-2018 11:36:17 Etc/GMT] PHP Notice:  Undefined index: ifsc in /home/krishddw/public_html/buyerEnqdb.php on line 7
+[25-Sep-2018 11:36:17 Etc/GMT] PHP Notice:  Undefined index: accountNumber in /home/krishddw/public_html/buyerEnqdb.php on line 8
+[25-Sep-2018 11:36:17 Etc/GMT] PHP Notice:  Undefined index: tan in /home/krishddw/public_html/buyerEnqdb.php on line 9
+[25-Sep-2018 11:36:17 Etc/GMT] PHP Notice:  Undefined index: pan in /home/krishddw/public_html/buyerEnqdb.php on line 10
+[25-Sep-2018 11:36:17 Etc/GMT] PHP Notice:  Undefined index: gst in /home/krishddw/public_html/buyerEnqdb.php on line 11
+[25-Sep-2018 11:36:17 Etc/GMT] PHP Notice:  Undefined index: deliveryAddress in /home/krishddw/public_html/buyerEnqdb.php on line 12
+[25-Sep-2018 11:36:17 Etc/GMT] PHP Notice:  Undefined index: message in /home/krishddw/public_html/buyerEnqdb.php on line 13
+[25-Sep-2018 11:36:17 Etc/GMT] PHP Notice:  Undefined index: BX_Item in /home/krishddw/public_html/buyerEnqdb.php on line 14
+[25-Sep-2018 11:36:17 Etc/GMT] PHP Notice:  Undefined index: BX_type in /home/krishddw/public_html/buyerEnqdb.php on line 15
+[25-Sep-2018 11:36:17 Etc/GMT] PHP Notice:  Undefined index: BX_units in /home/krishddw/public_html/buyerEnqdb.php on line 16
+[25-Sep-2018 11:36:17 Etc/GMT] PHP Notice:  Undefined index: BX_duration in /home/krishddw/public_html/buyerEnqdb.php on line 17
+[25-Sep-2018 11:36:17 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/krishddw/public_html/buyerEnqdb.php on line 20
+[25-Sep-2018 13:42:34 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 32
+[25-Sep-2018 14:56:21 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[25-Sep-2018 14:58:11 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[25-Sep-2018 16:18:34 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[25-Sep-2018 16:20:28 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 154
+[25-Sep-2018 16:20:28 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 173
+[25-Sep-2018 16:20:28 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 192
+[25-Sep-2018 16:20:28 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 203
+[25-Sep-2018 16:20:28 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 218
+[25-Sep-2018 16:22:08 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 154
+[25-Sep-2018 16:22:08 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 173
+[25-Sep-2018 16:22:08 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 192
+[25-Sep-2018 16:22:08 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 203
+[25-Sep-2018 16:22:08 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 218
+[25-Sep-2018 17:40:00 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 154
+[25-Sep-2018 17:40:00 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 173
+[25-Sep-2018 17:40:00 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 192
+[25-Sep-2018 17:40:00 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 203
+[25-Sep-2018 17:40:00 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 218
+[25-Sep-2018 17:40:10 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 154
+[25-Sep-2018 17:40:10 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 173
+[25-Sep-2018 17:40:10 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 192
+[25-Sep-2018 17:40:10 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 203
+[25-Sep-2018 17:40:10 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 218
+[26-Sep-2018 03:38:11 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/feedbackProcess.php on line 4
+[26-Sep-2018 03:38:11 Etc/GMT] PHP Notice:  Undefined index: lname in /home/krishddw/public_html/feedbackProcess.php on line 5
+[26-Sep-2018 03:38:11 Etc/GMT] PHP Notice:  Undefined index: email in /home/krishddw/public_html/feedbackProcess.php on line 6
+[26-Sep-2018 03:38:11 Etc/GMT] PHP Notice:  Undefined index: subject in /home/krishddw/public_html/feedbackProcess.php on line 7
+[26-Sep-2018 03:38:11 Etc/GMT] PHP Notice:  Undefined index: message in /home/krishddw/public_html/feedbackProcess.php on line 8
+[26-Sep-2018 03:38:12 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[26-Sep-2018 03:38:12 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[26-Sep-2018 14:02:39 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[26-Sep-2018 14:50:41 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[26-Sep-2018 14:53:59 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 189
+[26-Sep-2018 14:53:59 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 208
+[26-Sep-2018 14:53:59 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 227
+[26-Sep-2018 14:53:59 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 238
+[26-Sep-2018 14:53:59 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 253
+[26-Sep-2018 14:54:12 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 189
+[26-Sep-2018 14:54:12 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 208
+[26-Sep-2018 14:54:12 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 227
+[26-Sep-2018 14:54:12 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 238
+[26-Sep-2018 14:54:12 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 253
+[26-Sep-2018 14:54:25 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[26-Sep-2018 14:58:58 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/krishddw/public_html/buyerEnqdb.php on line 20
+[26-Sep-2018 14:58:58 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/krishddw/public_html/buyerEnqdb.php on line 20
+[26-Sep-2018 14:58:58 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/krishddw/public_html/buyerEnqdb.php on line 33
+[26-Sep-2018 14:58:58 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/krishddw/public_html/buyerEnqdb.php on line 33
+[26-Sep-2018 14:58:58 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/krishddw/public_html/buyerEnqdb.php on line 33
+[26-Sep-2018 14:58:58 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/krishddw/public_html/buyerEnqdb.php on line 33
+[26-Sep-2018 15:04:53 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/krishddw/public_html/buyerEnqdb.php on line 20
+[26-Sep-2018 15:04:53 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/krishddw/public_html/buyerEnqdb.php on line 20
+[26-Sep-2018 15:04:53 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/krishddw/public_html/buyerEnqdb.php on line 29
+[26-Sep-2018 15:04:53 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/krishddw/public_html/buyerEnqdb.php on line 29
+[26-Sep-2018 15:04:53 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/krishddw/public_html/buyerEnqdb.php on line 29
+[26-Sep-2018 15:04:53 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/krishddw/public_html/buyerEnqdb.php on line 29
+[26-Sep-2018 15:05:53 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/krishddw/public_html/buyerEnqdb.php on line 20
+[26-Sep-2018 15:05:53 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/krishddw/public_html/buyerEnqdb.php on line 20
+[26-Sep-2018 15:05:53 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/krishddw/public_html/buyerEnqdb.php on line 29
+[26-Sep-2018 15:05:53 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/krishddw/public_html/buyerEnqdb.php on line 29
+[26-Sep-2018 15:05:53 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/krishddw/public_html/buyerEnqdb.php on line 29
+[26-Sep-2018 15:05:53 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/krishddw/public_html/buyerEnqdb.php on line 29
+[26-Sep-2018 15:09:30 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[26-Sep-2018 15:17:55 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 189
+[26-Sep-2018 15:17:55 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 208
+[26-Sep-2018 15:17:55 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 227
+[26-Sep-2018 15:17:55 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 238
+[26-Sep-2018 15:17:55 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 253
+[26-Sep-2018 15:18:07 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 189
+[26-Sep-2018 15:18:07 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 208
+[26-Sep-2018 15:18:07 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 227
+[26-Sep-2018 15:18:07 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 238
+[26-Sep-2018 15:18:07 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 253
+[26-Sep-2018 15:18:43 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 54
+[26-Sep-2018 15:32:05 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 189
+[26-Sep-2018 15:32:05 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 208
+[26-Sep-2018 15:32:05 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 227
+[26-Sep-2018 15:32:05 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 238
+[26-Sep-2018 15:32:05 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 253
+[27-Sep-2018 03:31:35 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/feedbackProcess.php on line 4
+[27-Sep-2018 03:31:35 Etc/GMT] PHP Notice:  Undefined index: lname in /home/krishddw/public_html/feedbackProcess.php on line 5
+[27-Sep-2018 03:31:35 Etc/GMT] PHP Notice:  Undefined index: email in /home/krishddw/public_html/feedbackProcess.php on line 6
+[27-Sep-2018 03:31:35 Etc/GMT] PHP Notice:  Undefined index: subject in /home/krishddw/public_html/feedbackProcess.php on line 7
+[27-Sep-2018 03:31:35 Etc/GMT] PHP Notice:  Undefined index: message in /home/krishddw/public_html/feedbackProcess.php on line 8
+[27-Sep-2018 03:31:35 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[27-Sep-2018 03:31:36 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[27-Sep-2018 05:22:48 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 189
+[27-Sep-2018 05:22:48 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 208
+[27-Sep-2018 05:22:48 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 227
+[27-Sep-2018 05:22:48 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 238
+[27-Sep-2018 05:22:48 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 253
+[27-Sep-2018 07:45:39 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 189
+[27-Sep-2018 07:45:39 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 208
+[27-Sep-2018 07:45:39 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 227
+[27-Sep-2018 07:45:39 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 238
+[27-Sep-2018 07:45:39 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 253
+[27-Sep-2018 07:45:41 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 189
+[27-Sep-2018 07:45:41 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 208
+[27-Sep-2018 07:45:41 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 227
+[27-Sep-2018 07:45:41 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 238
+[27-Sep-2018 07:45:41 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 253
+[27-Sep-2018 07:45:41 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 189
+[27-Sep-2018 07:45:41 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 208
+[27-Sep-2018 07:45:41 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 227
+[27-Sep-2018 07:45:41 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 238
+[27-Sep-2018 07:45:41 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 253
+[28-Sep-2018 03:38:43 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/feedbackProcess.php on line 4
+[28-Sep-2018 03:38:43 Etc/GMT] PHP Notice:  Undefined index: lname in /home/krishddw/public_html/feedbackProcess.php on line 5
+[28-Sep-2018 03:38:43 Etc/GMT] PHP Notice:  Undefined index: email in /home/krishddw/public_html/feedbackProcess.php on line 6
+[28-Sep-2018 03:38:43 Etc/GMT] PHP Notice:  Undefined index: subject in /home/krishddw/public_html/feedbackProcess.php on line 7
+[28-Sep-2018 03:38:43 Etc/GMT] PHP Notice:  Undefined index: message in /home/krishddw/public_html/feedbackProcess.php on line 8
+[28-Sep-2018 03:38:44 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[28-Sep-2018 03:38:44 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[28-Sep-2018 16:55:30 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[28-Sep-2018 17:01:17 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[28-Sep-2018 17:02:37 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[28-Sep-2018 17:49:46 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 189
+[28-Sep-2018 17:49:46 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 208
+[28-Sep-2018 17:49:46 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 227
+[28-Sep-2018 17:49:46 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 238
+[28-Sep-2018 17:49:46 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 253
+[28-Sep-2018 17:50:00 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 54
+[28-Sep-2018 18:19:24 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 54
+[28-Sep-2018 18:20:02 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[29-Sep-2018 03:36:40 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/feedbackProcess.php on line 4
+[29-Sep-2018 03:36:40 Etc/GMT] PHP Notice:  Undefined index: lname in /home/krishddw/public_html/feedbackProcess.php on line 5
+[29-Sep-2018 03:36:40 Etc/GMT] PHP Notice:  Undefined index: email in /home/krishddw/public_html/feedbackProcess.php on line 6
+[29-Sep-2018 03:36:40 Etc/GMT] PHP Notice:  Undefined index: subject in /home/krishddw/public_html/feedbackProcess.php on line 7
+[29-Sep-2018 03:36:40 Etc/GMT] PHP Notice:  Undefined index: message in /home/krishddw/public_html/feedbackProcess.php on line 8
+[29-Sep-2018 03:36:40 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[29-Sep-2018 03:36:41 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[29-Sep-2018 14:37:54 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 32
+[29-Sep-2018 14:55:19 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 54
+[29-Sep-2018 15:06:56 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 54
+[29-Sep-2018 15:07:03 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 54
+[29-Sep-2018 15:13:47 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 54
+[29-Sep-2018 15:32:48 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[29-Sep-2018 15:39:50 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 32
+[29-Sep-2018 15:46:00 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[29-Sep-2018 16:56:05 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 32
+[29-Sep-2018 17:15:03 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 32
+[29-Sep-2018 17:44:20 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[29-Sep-2018 17:49:47 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[29-Sep-2018 17:50:09 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[29-Sep-2018 17:50:34 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[30-Sep-2018 03:32:51 Etc/GMT] PHP Notice:  Undefined index: fname in /home/krishddw/public_html/feedbackProcess.php on line 4
+[30-Sep-2018 03:32:51 Etc/GMT] PHP Notice:  Undefined index: lname in /home/krishddw/public_html/feedbackProcess.php on line 5
+[30-Sep-2018 03:32:51 Etc/GMT] PHP Notice:  Undefined index: email in /home/krishddw/public_html/feedbackProcess.php on line 6
+[30-Sep-2018 03:32:51 Etc/GMT] PHP Notice:  Undefined index: subject in /home/krishddw/public_html/feedbackProcess.php on line 7
+[30-Sep-2018 03:32:51 Etc/GMT] PHP Notice:  Undefined index: message in /home/krishddw/public_html/feedbackProcess.php on line 8
+[30-Sep-2018 03:32:52 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[30-Sep-2018 03:32:53 Etc/GMT] PHP Notice:  Undefined index: typeReg in /home/krishddw/public_html/signupProcess.php on line 11
+[30-Sep-2018 05:48:08 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[30-Sep-2018 09:17:16 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 54
+[30-Sep-2018 12:31:15 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 189
+[30-Sep-2018 12:31:15 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 208
+[30-Sep-2018 12:31:15 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 227
+[30-Sep-2018 12:31:15 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 238
+[30-Sep-2018 12:31:15 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 253
+[30-Sep-2018 12:31:28 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 189
+[30-Sep-2018 12:31:28 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 208
+[30-Sep-2018 12:31:28 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 227
+[30-Sep-2018 12:31:28 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 238
+[30-Sep-2018 12:31:28 Etc/GMT] PHP Notice:  Undefined index: category in /home/krishddw/public_html/enquiry.php on line 253
+[30-Sep-2018 12:33:20 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 117
+[30-Sep-2018 12:33:24 Etc/GMT] PHP Notice:  Undefined index: id in /home/krishddw/public_html/login.php on line 54
+[30-Sep-2018 14:11:26 Etc/GMT] PHP Fatal error:  Call to undefined function isgtco() in /home/krishddw/public_html/index.php on line 4
+[30-Sep-2018 14:11:27 Etc/GMT] PHP Fatal error:  Call to undefined function isgtco() in /home/krishddw/public_html/index.php on line 4
+[30-Sep-2018 14:11:28 Etc/GMT] PHP Fatal error:  Call to undefined function isgtco() in /home/krishddw/public_html/index.php on line 4
+[30-Sep-2018 14:11:29 Etc/GMT] PHP Fatal error:  Call to undefined function isgtco() in /home/krishddw/public_html/index.php on line 4
+[30-Sep-2018 14:11:30 Etc/GMT] PHP Fatal error:  Call to undefined function isgtco() in /home/krishddw/public_html/index.php on line 4
+[30-Sep-2018 14:11:30 Etc/GMT] PHP Fatal error:  Call to undefined function isgtco() in /home/krishddw/public_html/index.php on line 4
+[30-Sep-2018 14:12:59 Etc/GMT] PHP Fatal error:  Call to undefined function isgtco() in /home/krishddw/public_html/index.php on line 4
+[30-Sep-2018 14:13:00 Etc/GMT] PHP Fatal error:  Call to undefined function isgtco() in /home/krishddw/public_html/index.php on line 4
+[30-Sep-2018 14:13:00 Etc/GMT] PHP Fatal error:  Call to undefined function isgtco() in /home/krishddw/public_html/index.php on line 4
+[30-Sep-2018 14:13:04 Etc/GMT] PHP Fatal error:  Call to undefined function isgtco() in /home/krishddw/public_html/index.php on line 4
+[30-Sep-2018 14:13:04 Etc/GMT] PHP Fatal error:  Call to undefined function isgtco() in /home/krishddw/public_html/index.php on line 4
+[30-Sep-2018 14:13:05 Etc/GMT] PHP Fatal error:  Call to undefined function isgtco() in /home/krishddw/public_html/index.php on line 4
+[30-Sep-2018 14:13:06 Etc/GMT] PHP Fatal error:  Call to undefined function isgtco() in /home/krishddw/public_html/index.php on line 4
+[30-Sep-2018 14:13:07 Etc/GMT] PHP Fatal error:  Call to undefined function isgtco() in /home/krishddw/public_html/index.php on line 4
+[30-Sep-2018 14:13:07 Etc/GMT] PHP Fatal error:  Call to undefined function isgtco() in /home/krishddw/public_html/index.php on line 4
+[30-Sep-2018 14:13:52 Etc/GMT] PHP Fatal error:  Call to undefined function isgtco() in /home/krishddw/public_html/index.php on line 4
+[30-Sep-2018 14:13:54 Etc/GMT] PHP Fatal error:  Call to undefined function isgtco() in /home/krishddw/public_html/index.php on line 4
+[30-Sep-2018 14:13:55 Etc/GMT] PHP Fatal error:  Call to undefined function isgtco() in /home/krishddw/public_html/index.php on line 4
+[30-Sep-2018 14:13:56 Etc/GMT] PHP Fatal error:  Call to undefined function isgtco() in /home/krishddw/public_html/index.php on line 4
